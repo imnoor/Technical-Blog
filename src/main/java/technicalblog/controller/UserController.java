@@ -1,4 +1,4 @@
-package technicalblog;
+package technicalblog.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

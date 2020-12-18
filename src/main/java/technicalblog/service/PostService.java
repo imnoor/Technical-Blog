@@ -1,6 +1,6 @@
-package technicalblog;
+package technicalblog.service;
 
-import model.Post;
+import technicalblog.model.Post;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
